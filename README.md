@@ -1,11 +1,6 @@
 ### Hi there 👋 <span style="color:yellow">McDonald Musimwa</span> here.  
-Full-Stack Software developer with a passion for solving real-world problems
- with code.  
-
-I specialize in React for front-end development and Node.js,  
- and Express for back-end development, with MongoDB and MySQL experience.  
-  In addition to my technical skills, I possess strong problem-solving  
-   skills and an eagerness to learn and grow as a developer the ability  
+Full-Stack Software developer with a passion for solving real-world problems with code.I specialize in React for front-end development and Node.js,and Express for back-end development, with MongoDB and MySQL experience.  
+In addition to my technical skills, I possess strong problem-solving skills and an eagerness to learn and grow as a developer the ability  
     and flexibility to learn new technology adapt and overcome give me a sharp edge.
 
 <!--
