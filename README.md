@@ -22,6 +22,7 @@ In addition to my technical skills, I possess strong problem-solving skills and 
 ## Skills & Tools:  
 <div class="circle">
   <div class="icon-container">
+    <img src="react.png" height="40" class="icon11">
     <img src="html.png" height="40" class="icon icon1">
     <img src="css.png" height="40" class="icon icon2">
     <img src="sass.png" height="40" class="icon icon3">
