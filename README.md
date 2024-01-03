@@ -8,11 +8,11 @@ Beyond my technical prowess, I bring robust problem-solving abilities to the tab
 -->
 
 
-## Me : 
+## McDonald : 
 - ⚓ I am based in Capetown.  
 
-- 💻See more about me here https://mcdonald.onrender.com  
-- ✉ You can contact me via https://www.linkedin.com/in/mcdonaldmusimwa  
+- 💻See more about me here [Portfolio Site](https://mcdonald.onrender.com)  
+- ✉ You can contact me via [Linkedin](https://www.linkedin.com/in/mcdonaldmusimwa)  
 - 🛠 I am focused on React and Node Js and Mongo Db  
 - ⚙ I am currently working on a task management application.  
 -  🎉 In my spare time I enjoy Old Western movies, film, photography, and gym. 
@@ -22,14 +22,16 @@ Beyond my technical prowess, I bring robust problem-solving abilities to the tab
 ## Skills & Tools:  
 <div class="circle">
   <div class="icon-container">
-    <img src="react.png" height="40" class="icon11">
+    <img src="java.png" height="40" class="icon11">
     <img src="html.png" height="40" class="icon icon1">
     <img src="css.png" height="40" class="icon icon2">
+    <img src="java-script.png" height="40" class="icon icon5">
+    <img src="database.png" height="40" class="icon icon10">
+    <img src="python.png" height="40" class="icon icon6">
     <img src="sass.png" height="40" class="icon icon3">
     <img src="nodejs.png" height="40" class="icon icon4">
-    <img src="java-script.png" height="40" class="icon icon5">
-    <img src="python.png" height="40" class="icon icon6">
-    <img src="express.png" height="40" class="icon icon7">
+    <img src="react.png" height="40" class="icon11">
+    <img src="express-js.png" height="40" class="icon icon7">
     <img src="graphql.png" height="40" class="icon icon8">
     <img src="sql.png" height="40" class="icon icon9">
     <img src="database.png" height="40" class="icon icon10">
