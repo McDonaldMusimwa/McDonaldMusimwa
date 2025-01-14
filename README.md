@@ -22,9 +22,8 @@ Beyond my technical prowess, I bring robust problem-solving abilities to the tab
 ## Skills & Tools:  
 <div class="circle">
   <div class="icon-container">
-    
-    <img src="tp.png" height="40" class="icon icon5">
-    <img src="python.png" height="40" class="icon icon6">
+    <img src="java-script.png" height="40" class="icon icon5">
+    <img src="java.png" height="40" class="icon icon6">
     <img src="html.png" height="40" class="icon icon1">
     <img src="css.png" height="40" class="icon icon2">
     <img src="sql.png" height="40" class="icon icon9">
@@ -33,8 +32,7 @@ Beyond my technical prowess, I bring robust problem-solving abilities to the tab
     <img src="nodejs.png" height="40" class="icon icon4">
     <img src="react.png" height="40" class="icon11">
     <img src="express-js.png" height="40" class="icon icon7">
-  
-      <img src="git.png" height="40" class="icon icon8">
+  <img src="git.png" height="40" class="icon icon8">
     <div class="black-hole"></div>
   </div>
 </div>
