@@ -1,7 +1,5 @@
 ### Hi there 👋 <span style="color:yellow">McDonald Musimwa</span> here.  
-I'm a Software Developer with a passion for tackling real-world challenges through code. My approach is marked by a tenacious can-do attitude, enabling me to adapt swiftly to new technologies.
-I specialize in crafting seamless user experiences using React for front-end development. On the back end, I'm well-versed in and Node.js, with proficiency in databases like MongoDB and SQL Server.
-Beyond my technical prowess, I bring robust problem-solving abilities to the table and a continuous desire to learn and evolve as a developer. My knack for quickly grasping new technologies and the ability to adapt and conquer gives me a distinct edge in this ever-evolving industry. I thrive within a team and excel in solo work.
+Innovative and resourceful Software Developer with a strong foundation in computer science fundamentals, object-oriented design, and problem-solving. Equipped with hands-on experience in building and optimizing reliable, scalable software solutions for diverse applications. Proactive team player adept at working in agile environments and delivering high-quality solutions. Proven ability to self-manage, troubleshoot, and document effectively, with a commitment to continuous learning and embracing cutting-edge technologies.  
 
 <!--
 **McDonaldMusimwa/McDonaldMusimwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +14,7 @@ Beyond my technical prowess, I bring robust problem-solving abilities to the tab
 - 🛠 I am focused on React and Node Js
 - ⚙ I am currently working on a bug Ttracker web application.  
 -  🎉 In my spare time I enjoy Old Western movies, film, photography, and gym. 
-- 🌱 I’m currently getting comfortable with <img src="got.png" height="30" width="60" class="icon1"/> 
+- 🌱 I’m currently getting comfortable with <img src="springboot.png" height="30" width="30" class="icon1"/> 
 
 
 ## Skills & Tools:  

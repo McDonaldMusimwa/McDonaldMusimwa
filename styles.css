@@ -101,6 +101,9 @@
 }
 
 .icon1 {
+  align-items: center;
+  justify-content: center;
+
   transform: rotate(0deg) translateX(100px) rotate(90deg);
 }
 
