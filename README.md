@@ -9,7 +9,7 @@ Innovative and resourceful Software Developer with a strong foundation in comput
 ## McDonald : 
 - ⚓ I am based in Capetown.  
 
-- 💻See more about me here [Portfolio Site](https://mcdonald.onrender.com)  
+- 💻See more about me here [Portfolio Site](https://mcdonaldmusimwa.netlify.app/)  
 - ✉ You can contact me via [Linkedin](https://www.linkedin.com/in/mcdonaldmusimwa)  
 - 🛠 I am focused on React and Node Js
 - ⚙ I am currently working on a bug tracker web application see design docs  [Figma design docs](https://www.figma.com/design/IlD2d7jY67IsnX6go6loWB/Bug-Tracker-Web-App?node-id=7-30&t=0SJrmmMBCbNUt1ef-1).  
